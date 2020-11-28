@@ -1,6 +1,6 @@
 # About Project: gradle_java
 
-## Hello Gradle and Java!
+## Learn Gradle and Java!
 
 ```bash
 ------------------------------------------------------------
