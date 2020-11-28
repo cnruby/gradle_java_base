@@ -1,4 +1,4 @@
-# project: gradle_java
+# About Project: gradle_java
 Hello Gradle and Java!
 
 # Using the project
